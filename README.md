@@ -1,5 +1,9 @@
 # vagrant-freebsd-rust: a Vagrant box for building Rust binaries for FreeBSD
 
+# VAGRANT CLOUD
+
+https://app.vagrantup.com/mcandre/boxes/vagrant-freebsd-rust
+
 # EXAMPLE
 
 ```console
