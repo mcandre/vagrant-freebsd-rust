@@ -20,5 +20,5 @@ Hello World!
 # EXPORT
 
 ```console
-$ vagrant package --output vagrant-freebsd-rust.box
+$ vagrant destroy -f; vagrant up && vagrant package --output vagrant-freebsd-rust.box
 ```
