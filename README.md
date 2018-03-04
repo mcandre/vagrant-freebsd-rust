@@ -7,6 +7,7 @@ https://app.vagrantup.com/mcandre/boxes/vagrant-freebsd-rust
 # EXAMPLE
 
 ```console
+$ cd test
 $ vagrant up
 $ vagrant ssh -c "cd /vagrant && rustc hello.rs && ./hello"
 Hello World!
